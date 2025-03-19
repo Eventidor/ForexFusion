@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "forex-fusion",
+    "slug": "forex-fusion",
+    "version": "1.0.0",
+    "platforms": ["ios","android","web"],
+    "orientation": "portrait",
+    "icon": "./assets/ForexFusion.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/ForexFusion.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ForexFusion.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d8848044-3cb9-4b0f-8fe5-c20b2e5185c4"
+      }
+    },
+    "owner": "farhankhatri"
+  }
+}
